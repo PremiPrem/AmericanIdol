@@ -1,0 +1,5 @@
+﻿projectName,repoUrl,activeBranch
+first-service-name,https://github.com/repo/service/repo,master
+second-service-name,https://github.com/repo/service2/repo,master
+JMS Transport,https://github.com/ruvindaLakdini/IdolProject.git,master
+

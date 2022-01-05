@@ -1,0 +1,18 @@
+ProjectRegistry Controller
+GET method
+
+http://localhost:8080/projects
+
+Dependency Controller
+POST Method
+
+http://localhost:8080/projects/JMS Transport/dependency?groupId=org.apache.geronimo.specs&artifactId=geronimo-jms_1.1_spec&version=9.7.6
+
+
+
+PUT Method
+http://localhost:8080/projects/JMS Transport/dependency?groupId=org.apache.geronimo.specs&artifactId=geronimo-jms_1.1_spec&version=9.7.6
+
+Property Controller
+PUT Method
+http://localhost:8080/projects/JMS Transport/property?property=app.time&value=7.8.0
